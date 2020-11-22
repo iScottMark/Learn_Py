@@ -1,9 +1,7 @@
- # 忽略课件 PPT 文件夹
- ./sildes/*
- 
- # 忽略文件夹图标
- ./Learn_Py_icon.ico
- 
- # 忽略参考资料
- ./流畅的python.pdf
- 
+# 忽略文件夹图标
+Learn_Py_icon.ico
+
+# 忽略文件夹
+slides/
+reference/
+
