@@ -76,5 +76,5 @@ PS: *不会使用 Jupyter Notebook 的小伙伴不用担心，点击下面目录
 
 **建议和意见：**
 
-* 由于个人精力和水平有限，整理中难免会有一些错误，如果您有任何相关问题，欢迎在 `issue` 中大家一起讨论；
+* 由于个人精力和水平有限，整理中难免会有一些错误，如果您有任何相关问题，欢迎在 [Issue](https://github.com/iScottMark/Learn_Py/issues) 中大家一起讨论；
 * 当然您也可以通过邮箱 *maxiaoxiao@nao.cas.cn* 寻求帮助或是提出您宝贵的建议和意见。
