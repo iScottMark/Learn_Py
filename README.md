@@ -15,9 +15,14 @@
 
 **特性：**
 
-* 所有练习题均在 [Jupyter Notebook](https://jupyter.org/) 环境下书写，且全部通过 OJ 测试；
+* 考虑到可读性，所有练习题均在 [Jupyter Notebook](https://jupyter.org/) 环境下书写，且全部通过 OJ 测试；
 * 练习题包含了完整的题目 + 代码注释，方便阅读与理解；
-* 部分习题包含了总结、注意事项或是解题思路。
+* 部分习题包含了总结、注意事项或是解题思路；
+
+**书写规范：**
+
+* 代码部分遵循 [PEP8](https://python-guide.gitbooks.io/python-style-guide/content/style-guide/) 书写规范
+* Markdown 部分遵循 [GitHub Flavored Markdown](https://github.github.com/gfm/) 书写规范
 
 PS: *不会使用 Jupyter Notebook 的小伙伴不用担心，点击下面目录的链接，可以在线查看相关资料代码 (\^_\^)。*
 
@@ -65,7 +70,7 @@ PS: *不会使用 Jupyter Notebook 的小伙伴不用担心，点击下面目录
 九、高级特性（二）：高级扩展模块
 
 * [上机练习](./exercise/exercise9.ipynb)
-* [OJ 练习](./homework/homework9.ipynb)
+* 无 OJ 练习
 
 ## 3.其他
 
@@ -77,4 +82,4 @@ PS: *不会使用 Jupyter Notebook 的小伙伴不用担心，点击下面目录
 **建议和意见：**
 
 * 由于个人精力和水平有限，整理中难免会有一些错误，如果您有任何相关问题，欢迎在 [Issue](https://github.com/iScottMark/Learn_Py/issues) 中大家一起讨论；
-* 当然您也可以通过邮箱 *maxiaoxiao@nao.cas.cn* 寻求帮助或是提出您宝贵的建议和意见。
+* 当然您也可以通过邮箱 *maxiaoxiao@nao.cas.cn* 寻求帮助或是提出您宝贵的意见和建议。
