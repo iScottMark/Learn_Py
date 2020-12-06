@@ -7,3 +7,6 @@ reference/
 
 # 忽略缩略图
 desktop.ini
+
+# 忽略期末考试答案
+final_exam.ipynb

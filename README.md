@@ -4,14 +4,19 @@
 
 由 [*Scott Mark*](https://github.com/iScottMark) 整理
 
+## 0.日志
+
+* 2020/12/02 —— [@hitszjsy](https://github.com/hitszjsy) 同学提供了[第 8 章 OJ 练习](./homework/homework8.ipynb) 题目4中，一种获取所有组合数更为简洁的方法；以及[第 6 章 OJ 练习](./homework/homework6.ipynb) 题目2中，利用更相减损法求最大公约数。
+
 ## 1.简介
 
 针对北京大学[陈斌](https://www.icourse163.org/u/ykt1432655824951?userId=6537518)教授在慕课上所开设的[《Python 语言基础与应用》](https://www.icourse163.org/course/PKU-1003479006)（第 5 次开课）的学习，本人整理了课程的相关资料，仅供大家一起学习交流。
 
-**内容主要分为两部分：**
+**内容主要分为三部分：**
 
 * 上机练习题
 * OJ (Online Judge) 练习题
+* 期末考试 OJ 编程题 (*12月10日晚公布*)
 
 **特性：**
 
@@ -71,6 +76,10 @@ PS: *不会使用 Jupyter Notebook 的小伙伴不用担心，点击下面目录
 
 * [上机练习](./exercise/exercise9.ipynb)
 * 无 OJ 练习
+
+十、期末考试
+
+* 12月10日公布 (考试加油(●'◡'●))
 
 ## 3.其他
 
