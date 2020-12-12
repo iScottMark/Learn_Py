@@ -6,7 +6,7 @@
 
 ## 0.日志
 
-* 2020/12/12 —— 更新[期末考试 OJ 编程题](./fianl_exam.ipynb)
+* 2020/12/12 —— 更新[期末考试 OJ 编程题](./final_exam.ipynb)
 
 * 2020/12/02 —— [@hitszjsy](https://github.com/hitszjsy) 同学提供了[第 8 章 OJ 练习](./homework/homework8.ipynb) 题目4中，一种获取所有组合数更为简洁的方法；以及[第 6 章 OJ 练习](./homework/homework6.ipynb) 题目2中，利用更相减损法求最大公约数。
 
@@ -81,7 +81,7 @@ PS: *不会使用 Jupyter Notebook 的小伙伴不用担心，点击下面目录
 
 十、期末考试
 
-* [期末考试 OJ 编程题](./fianl_exam.ipynb)
+* [期末考试 OJ 编程题](./final_exam.ipynb)
 
 ## 3.其他
 
